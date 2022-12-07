@@ -6,3 +6,4 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div>
+![snake gif](https://github.com/AnaClara90/AnaClara90/blob/output/github-contribution-grid-snake.svg)
